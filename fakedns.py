@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """Fakedns.py: A regular-expression based DNS MITM Server by Crypt0s."""
-
+# python fakedns.py -c dns.conf.example
 import pdb
 import socket
 import re
